@@ -24,10 +24,10 @@ Query OK, 0 rows affected (0.04 sec)
 mysql> create table biaoge(dd varchar(20));
 Query OK, 0 rows affected (0.04 sec)
 ```
-![](https://github.com/hao309/mysql-test-1/blob/master/~SJVV65%2559%5BW%5DL3IK%25M4VD6.png)
+
 ## 题目2：如何join两张表
 join join
-
+![](https://github.com/hao309/mysql-test-1/blob/master/~SJVV65%2559%5BW%5DL3IK%25M4VD6.png)
 ## 题目3： xxxx
 xxxxxx
 
